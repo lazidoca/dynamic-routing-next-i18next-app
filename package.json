@@ -1,0 +1,17 @@
+{
+  "name": "dynamic-routing",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "latest",
+    "next-i18next": "^0.50.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
+}

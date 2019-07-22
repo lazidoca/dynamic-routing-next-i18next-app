@@ -1,0 +1,6 @@
+{
+    "post": "Post",
+    "comment": "Kommentar",
+    "error-with-status": "Auf dem Server ist ein Fehler ({{statusCode}}) aufgetreten",
+    "error-without-status": "Auf dem Server ist ein Fehler aufgetreten"
+}
